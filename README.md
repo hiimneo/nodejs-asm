@@ -32,6 +32,18 @@
 $ npm install
 ```
 
+## Create database
+
+Using mysql workbench
+
+Connection information:
+
+- Host: localhost
+- Port: 3309
+- Database: asm
+- Username: root
+- Password: root
+
 ## Running the app
 
 ```bash
@@ -44,6 +56,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
